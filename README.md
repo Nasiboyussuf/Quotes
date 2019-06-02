@@ -3,6 +3,11 @@ This project was generated with Angular CLI version 7.3.6.
 
 It is a quotes application that is supposed to allow a user to input quotes, upvote, downvote or delete them.
 
+##Author
+Nasibo Yussuf.(2/06/2019)
+
+
+
 
 
 
