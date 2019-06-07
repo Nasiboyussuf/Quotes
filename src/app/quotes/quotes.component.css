@@ -1,0 +1,29 @@
+body{
+  background-size: cover;
+  background-image: url("https://i.ytimg.com/vi/l7WeNO_j5VM/maxresdefault.jpg");
+  background-repeat: no-repeat;
+}
+h2{
+  font-family:cursive;
+  text-transform: uppercase;
+  color: azure;
+  text-shadow: 2px 2px 4px #000000;
+  padding: 3%;
+  text-align: center;
+  font-size: 50px;
+}
+#details{
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.6);
+  color: white;
+  font-family:serif;
+  margin-top: 2%;
+  border-radius: 5%;
+}
+.top{
+  padding-top: 2%;
+}
+.button{
+  padding-bottom: 3%;
+  text-align: center;
+}

@@ -1,0 +1,10 @@
+#like, #unlike, #delete{
+  padding: 2%;
+  argin:3%;
+}
+body{
+  color: rgb(130, 153, 455);
+  background-color: transparent;
+  text-align: center;
+  box-shadow: 5px 10px 18px ;
+}
